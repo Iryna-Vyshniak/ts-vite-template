@@ -10,7 +10,7 @@ body {
 h1 {
   margin: 5rem auto;
   font-weight: bold;
-  color: #7b01d7;
-  text-shadow: 0.0625rem 0.0625rem 0.0625rem #fff;
+  color: rgb(109, 0, 193);
+  text-shadow: 0.0625rem 0.0625rem 0.0625rem rgb(255, 255, 255);
   text-align: center;
 }
