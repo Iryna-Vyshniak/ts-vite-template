@@ -8,7 +8,7 @@
       "DOM.Iterable"
     ],
     "skipLibCheck": true,
-    "outDir": "dist",
+    "outDir": "./public",
     "strict": true,
   },
   "exclude": [
