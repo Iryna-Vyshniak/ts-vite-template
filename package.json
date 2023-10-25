@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
     "start": "web-dev-server --node-resolve --open --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,6 +23,7 @@
   "homepage": "https://github.com/Iryna-Vyshniak/ts-vite-template#readme",
   "dependencies": {
     "typescript": "^5.2.2",
-    "@web/dev-server": "^0.3.3"
+    "@web/dev-server": "^0.3.3",
+    "vite": "^4.4.0"
   }
 }
