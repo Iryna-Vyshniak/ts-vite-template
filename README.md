@@ -3,6 +3,8 @@
 Simple TypeScript project template with Vite as build tool and action for
 automatic deployment on GitHub pages.
 
+![Screenshot](/screenshots/ts+vite.jpg)
+
 ## References
 
 - [Vite - Getting Started](https://vitejs.dev/guide/#getting-started)
