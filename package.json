@@ -1,0 +1,26 @@
+{
+  "name": "ts-vite-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iryna-Vyshniak/ts-vite-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iryna-Vyshniak/ts-vite-template/issues"
+  },
+  "homepage": "https://github.com/Iryna-Vyshniak/ts-vite-template#readme",
+  "dependencies": {
+    "typescript": "^5.2.2",
+    "@web/dev-server": "^0.3.3"
+  }
+}
